@@ -1,0 +1,14 @@
+:root {
+  /* Typography */
+  --heading1: bold 24px;
+  --paragraph1: 18px;
+  --paragraph2: 16px;
+  --paragraph2_Bold: bold 16px;
+  --paragraph3: 14px;
+  --paragraph3_Bold: bold 14px;
+  /* colors */
+  --background_color: #1C5550;
+  --primary_color: #C3B97F;
+  --secondary_color: #91B599;
+  --light_color: #DFD9D9;
+}
